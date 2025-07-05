@@ -1,2 +1,2 @@
-# Emploi-du-temps
-Application pour gérer bien l'emploi du temps
+# Jour - date
+Petite application pour indiquer le jour d'une date entrée.
